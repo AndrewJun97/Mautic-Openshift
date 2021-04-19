@@ -1,3 +1,6 @@
+# About
+Mautic is an open source email marketing tool. 
+This repo goes over the processes required to set up the application in the Openshift Container Platform as well as requirements to utilize the [Mautic Subscription App](https://github.com/bcgov/Mautic-Subscription-App).
 # Architecture Diagram
 
 ![Architecture Diagram](architecture-diagram.png)
